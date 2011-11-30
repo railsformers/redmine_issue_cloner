@@ -1,0 +1,10 @@
+# English strings go here
+cs:
+  field_is_clone_issue: "Duplikovat tento úkol"
+  field_postpone_clone_issue: "Odložit uzavření (dny)"
+  field_date_of_clone_issue: "Duplikováno dne"
+
+  is_clone_issue: "Duplikovat tento úkol"
+  postpone_clone_issue: "Odložit uzavření (dny)"
+  date_of_clone_issue: "Duplikováno dne"
+
